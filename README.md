@@ -1,8 +1,5 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <title>Healthcare Data Insights 2019-2024</title>
-</head>
+
 <body>
 
 <h1>Healthcare Data Insights 2019-2024</h1>
