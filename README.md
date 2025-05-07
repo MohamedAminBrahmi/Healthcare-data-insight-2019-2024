@@ -43,7 +43,7 @@
 <p>Contributions and feedback are welcome! Feel free to fork the repository and submit pull requests.</p>
 
 <h2>📄 License</h2>
-<p>This project is open-source under the MIT License.</p>
+<p>This project is open-source .</p>
 
 </body>
 </html>
